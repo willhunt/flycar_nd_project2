@@ -29,7 +29,7 @@ The RRT* planning algorithm has been implemented to solve the project. The plann
 ### Planner results
 200 Iterations    | 1,000 Iterations | 10,000 Iterations
 :-------------:   |:-----------------: |:-----------------: 
-<img src="/assets/Figure1.png" alt="200iters" width="auto" height="180"> | <img src="/assets/Figure2.png" alt="1000iters" width="auto" height="180"> | <img src="/assets/Figure3.png" alt="10000iters" width="auto" height="180">    
+<img src="/assets/Figure1.png" alt="200iters" width="auto" height="200"> | <img src="/assets/Figure2.png" alt="1000iters" width="auto" height="200"> | <img src="/assets/Figure3.png" alt="10000iters" width="auto" height="200">    
 
 
 ## Notes
