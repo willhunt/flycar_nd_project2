@@ -165,7 +165,7 @@ class MotionPlanning(Drone):
                             map_limits = [map_limits[0], map_limits[1], map_limits[2], map_limits[3]],
                             obstacle_list = obstacle_list,
                             path_max = 50.0,
-                            max_iter = 1000)
+                            max_iter = 2500)
         rrt_star.plan()
         # rrt_star.draw_map()
         path_rrtstar = rrt_star.get_path()
